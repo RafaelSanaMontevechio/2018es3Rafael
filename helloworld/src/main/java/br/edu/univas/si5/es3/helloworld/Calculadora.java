@@ -4,6 +4,6 @@ public class Calculadora {
 
 	public int somar(int a, int b) {
 
-		return 0;
+		return a+b;
 	}
 }
